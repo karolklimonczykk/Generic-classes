@@ -1,4 +1,4 @@
-# Generic-classes
+# Generic classes
 
 <h2>Description</h2>
 <b>
@@ -23,3 +23,19 @@ Four collections are created that define and store the following objects:
   <li><b>identifier:</b> Integer, <b>content:</b> ImageIcon (image file)</li>
 </ol>
 
+<h2>Languages and Utilities Used</h2>
+
+- <b>Java</b> (SE 21 LTS)
+- <b>Java Swing</b> (GUI)
+
+<h2>Environments Used</h2>
+
+- <b>IntelliJ IDEA 2023.3.3</b>
+
+<h2>Libraries Used</h2>
+
+- javax.swing.*;
+- java.awt.*;
+- java.io.*;
+
+<h2>Program walk-through:</h2>
