@@ -41,7 +41,7 @@ Four collections are created that define and store the following objects:
 <h2>Program walk-through:</h2>
 
 <p align="center">
-Launching the application <br/>
+Launching the application: <br/>
 <img src="https://i.imgur.com/zbHBVbH.png" width="80%" alt ="App"  width="80%"/>
 <br />
 <br />
