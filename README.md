@@ -50,11 +50,11 @@ Adding contents to collections:  <br/>
 <br />
 <br />
 Searching values from collection: <br/>
-<img src="https://i.imgur.com/GoIvbGs.png" width="80%" alt="EndOfGame"/>
+<img src="https://i.imgur.com/AblyjQL.png" width="80%" alt="EndOfGame"/>
 <br />
 <br />
 Exception handling: <br/>
-<img src="https://i.imgur.com/JvmVSFL.png" width="80%" alt="EndOfGame"/>
+<img src="https://i.imgur.com/IlpJDDd.png" width="80%" alt="EndOfGame"/>
 <br />
   
 <h2>Functionality</h2>
