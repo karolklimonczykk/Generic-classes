@@ -17,9 +17,9 @@
 Four collections are created that define and store the following objects:
 </p>
 <ol>
-  <li>identifier: Integer, content: String (e.g. 1 - "Ala", 2 - "Ela", 3 - "Ola")</li>
-  <li>identifier: Byte, content: Integer. (e.g. 1 – 1990, 2 – 2010, 3 – 2021)</li>
-  <li>identifier: Long, content: CPerson (defined class)</li>
-  <li>identifier: Integer, content: ImageIcon (image file)</li>
+  <li><b>identifier:</b> Integer, <b>content:</b> String (e.g. 1 - "Ala", 2 - "Ela", 3 - "Ola")</li>
+  <li>identifier: <b>Byte</b>, <b>content:</b> Integer (e.g. 1 – 1990, 2 – 2010, 3 – 2021)</li>
+  <li>identifier: <b>Long</b>, <b>content:</b> CPerson (defined class)</li>
+  <li>identifier: <b>Integer</b>, <b>content:</b> ImageIcon (image file)</li>
 </ol>
 
