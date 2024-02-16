@@ -39,3 +39,33 @@ Four collections are created that define and store the following objects:
 - java.io.*;
 
 <h2>Program walk-through:</h2>
+
+<p align="center">
+Launching the application <br/>
+<img src="https://i.imgur.com/zbHBVbH.png" width="80%" alt ="App"  width="80%"/>
+<br />
+<br />
+Adding contents to collections:  <br/>
+<img src="https://i.imgur.com/Msa1Y6O.png" alt="AddingToCollections" width="80%"/>
+<br />
+<br />
+Searching values from collection: <br/>
+<img src="https://i.imgur.com/GoIvbGs.png" width="80%" alt="EndOfGame"/>
+<br />
+<br />
+Exception handling: <br/>
+<img src="https://i.imgur.com/JvmVSFL.png" width="80%" alt="EndOfGame"/>
+<br />
+  
+<h2>Functionality</h2>
+<p>
+  <ul>
+    <li>Possibility to assign values ​​and add another item to each collection</li>
+    <li>The elements of each collection are displayed on the screen using a list component</li>
+    <li>Searching for a specific element and displaying its value using the index or identifier have been implemented into the collection (1)</li>
+    <li>Possibility to enter personal data required by the CPerson constructor and an identifier, create an object and add it to the collection.</li>
+    <li>Ability to select a graphic file (raster image) by the user (JFileChooser) and add it with its ID to the collection</li>
+    <li>Collection items are displayed on the screen using a list component.</li>
+    <li>An appropriate rendering engine object was created in such a way that the list would display images (inheriting from javax.swing.DefaultListCellRenderer).</li>
+  </ul>
+</p>
